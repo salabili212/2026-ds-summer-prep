@@ -1,1 +1,0 @@
-# homeworks go in this directory
